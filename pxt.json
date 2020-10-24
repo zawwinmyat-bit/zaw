@@ -1,0 +1,21 @@
+{
+    "name": "zaw",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "mlx90614": "github:elmorg/ubit_mlx90614#687717b9f61c5e7bc3041600990f2c01bcb3fbcb"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
